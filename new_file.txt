@@ -9,4 +9,8 @@ Section 3
 Section 4
 
 Section 5
+<<<<<<< HEAD
 Kate made this change
+=======
+John made this section
+>>>>>>> john
